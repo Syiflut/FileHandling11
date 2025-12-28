@@ -1,0 +1,8 @@
+kamu adalah cinta,dede,2003,DIPINJAM
+mencintai dalam diam,kita ,2005,DIPINJAM
+kamu adalah cinta,dunia ,2007,DIPINJAM
+jadi diri sendiri,jule,2003,TERSEDIA
+kamu adalah kekasih idaman,udin,2009,TERSEDIA
+cinta yang abadi,judi ,2009,DIPINJAM
+mencintai dalam diam,kita,2005,TERSEDIA
+kamu adalah matahari,jinji,2009,TERSEDIA

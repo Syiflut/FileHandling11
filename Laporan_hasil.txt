@@ -1,0 +1,4 @@
+--- LAPORAN NILAI ---
+Rata-rata Kelas: NaN
+Status Kategori: REMEDIAL
+------------------
